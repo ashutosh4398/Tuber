@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'webpages',
     'youtubers',
     'ckeditor',
+    'accounts',
 ]
 
 MIDDLEWARE = [
